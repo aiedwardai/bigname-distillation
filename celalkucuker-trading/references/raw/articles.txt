@@ -1,0 +1,268 @@
+# Celal Kucuker 二手文献摘录（articles.txt）
+
+> 说明：以下为新闻网站引用 @CelalKucuker 帖子的文章摘录。元信息用中文，原文引用保留英文。
+> 凡文章转述非逐字引用的内容均已标注；逐字引用的帖子原文标注。
+> 采集时间：2026-09-28。文章发布日期即"采集日期"列。
+
+---
+
+## A1. Times Tabloid — "Expert Says This XRP Chart Targeting $4.10, $7.60, $11.80 Is Just Too Perfect"
+
+- 出处 URL：https://timestabloid.com/expert-says-this-xrp-chart-targeting-4-10-7-60-11-80-is-just-too-perfect/
+- 发布日期：2026-07-07（站内标注"82 days ago"，按 2026-09-28 推算；原页面未直接显示日期，记为约 2026-07 上旬）
+- 引用帖子日期：2026-07-06
+- 摘录：
+> It's just too perfect… ripple:native
+> Graph says it all
+> 1st ATH $4.10
+> 2nd ATH $7.60
+> 3rd ATH $11.80
+- 文章对其方法论的描述："His accompanying monthly chart relies on a repeating price structure, Fibonacci extensions, and measured percentage gains to support those targets."（月线图依赖重复的价格结构、斐波那契扩展和等幅涨幅来支撑这些目标。）"The chart uses Fibonacci extensions to identify potential price objectives… The 1.272 extension sits near $5.98. The 1.414 extension appears around $7.90, while the 1.618 extension reaches about $11.72."（图表用斐波那契扩展找目标：1.272≈$5.98，1.414≈$7.90，1.618≈$11.72。）"The chart measured this surge as 517.40% between key Fibonacci levels… Kucuker's chart projects another gain of about 517.36% from the same support zone."（第一段涨幅 517.40%，投影第二段涨幅 517.36%。）
+
+## A2. Times Tabloid — "Analyst Says XRP 'Has Reached the Level I Was Waiting for', Sets Price Target"
+
+- 出处 URL：https://timestabloid.com/analyst-says-xrp-has-reached-the-level-i-was-waiting-for-sets-price-target/
+- 发布日期：约 2026-08-29/30（站内标注"28 days ago"）
+- 引用帖子日期：2026-08-29
+- 摘录：
+> ripple:native | Update
+> 60% upside in the short term.
+> $2.20 wouldn't surprise me at all.
+> It has reached the level I was waiting for.
+- 文章补充："Kucuker also cited $4 as a potential target while suggesting that $2.50 could arrive quickly if the technical setup develops as expected. 'And $2.50. It could come FAST. Maybe in a single candle,' he wrote in the earlier post."（他还把 $4 列为潜在目标，并称若技术结构按预期发展 $2.50 可能来得很快；更早帖子原文："And $2.50. It could come FAST. Maybe in a single candle."）"if the two-week candle opening on August 31 remains above the green trendline shown on his chart, XRP could reach a new all-time high before the end of the year."（若 8-31 开盘的双周 K 线收在绿色趋势线上方，XRP 年底前可创新高。）
+
+## A3. Times Tabloid — "Analyst Shares XRP Price Prediction, Says Next Few Weeks Will Be Very Exciting"
+
+- 出处 URL：https://timestabloid.com/analyst-shares-xrp-price-prediction-says-next-few-weeks-will-be-very-exciting/
+- 发布日期：约 2026-08-30/31（站内标注"28 days ago"）
+- 引用帖子日期：2026-08-30
+- 摘录：
+> ripple:native
+> A flawless chart, a perfect correction, and a beautiful breakout from the downtrend…
+> The next few weeks are going to be very exciting.
+> 2.5$⌛️ 3.5$⌛️ 6$⌛️ 13$⌛️
+> Save it, share it, and wait.
+- 文章对其方法论的描述："The falling wedge is the chart's key feature. XRP declined within a narrowing range as both the upper and lower boundaries moved downward. The latest move takes XRP above the wedge's upper boundary."（下降楔形是图表关键形态；最新走势已突破楔形上轨。）
+
+## A4. Times Tabloid — "Top Trader: XRP Is Ready to Fly. $10 Is Definitely Not a Dream"
+
+- 出处 URL：https://timestabloid.com/top-trader-xrp-is-ready-to-fly-10-is-definitely-not-a-dream/
+- 发布日期：约 2026-09-08（站内标注"20 days ago"）
+- 引用帖子日期：2026-09-07
+- 摘录：
+> ripple:native is ready to fly…
+> The breakout is here, and the support has been successfully retested.
+> $10 is definitely not a dream….
+- 文章对其方法论的描述："His weekly chart shows a cup-and-handle pattern to support that stance."（周线杯柄形态。）"A breakout without a retest leaves structure unconfirmed. Kucuker's chart shows that XRP has completed that process."（没有回踩的突破让结构未经确认；他的图表显示 XRP 已完成该流程。）"The first is $2.4062, XRP's 2026 peak… The second is the $3.63 neckline, a pink resistance zone on the chart sitting just below XRP's all-time high of $3.65. Breaking through that neckline is what activates the measured move projections."（阻力：$2.4062（2026 年峰值）、$3.63 颈线；突破颈线激活量度涨幅。）
+
+## A5. Times Tabloid — "Analyst Sets $14 XRP Price Target Based On This Major Signal"
+
+- 出处 URL：https://timestabloid.com/analyst-sets-14-xrp-price-target-based-on-this-major-signal/
+- 发布日期：约 2026-06-06（站内标注"114 days ago"）
+- 引用帖子日期：2026-06-05
+- 摘录：
+> XRP Update
+> Best Ripple chart I've seen so far.
+> Cup & Handle formation is still in play.
+> A revisit to the 1.618 Fib level looks likely.
+> Potential dip: $0.95
+> Potential target: $14+
+> That's roughly a 14x upside from the dip zone.
+- 文章对其方法论的描述："The chart presents a multi-year outlook built around Fibonacci extensions, long-term trendlines, and a developing cup-and-handle pattern."（多年期展望围绕斐波那契扩展、长期趋势线和发育中的杯柄形态构建。）"That area sits just above a major horizontal support level and aligns with the lower boundary of a falling wedge structure."（$0.95 区域略高于主要水平支撑，并与下降楔形下边界对齐。）
+
+## A6. Times Tabloid — "Expert Says XRP Will Easily Break Above This Price Once Bitcoin Hits $150K"
+
+- 出处 URL：https://timestabloid.com/expert-says-xrp-will-easily-break-above-this-price-once-bitcoin-hits-150k/
+- 发布日期：约 2026-07-28（站内标注"62 days ago"）
+- 引用帖子日期：2026-07-27
+- 摘录：
+> Ripple will outperform Bitcoin by 13x, just like it did in 2024.
+> When $BTC hits $150K, $XRP will easily break above $10.
+> Save it and share it.
+- 文章对其方法论的描述："The forecast centres on XRP's performance against Bitcoin rather than the U.S. dollar. His accompanying weekly XRP/BTC chart outlines the technical setup behind that view."（预测围绕 XRP 对 BTC 的相对表现而非美元计价；附周线 XRP/BTC 图表。）"The chart shows XRP/BTC trading beneath a long-term descending trendline that has capped rallies since 2018. The price has also respected a lower horizontal support zone for several years."（XRP/BTC 在自 2018 年的长期下降趋势线下方运行，价格多年来守住下方水平支撑区。）
+
+## A7. CoinMarketCap（Guest Post by Times Tabloid）— "Data Analyst Says XRP Will Hit This Price in the Bull Run"
+
+- 出处 URL：https://coinmarketcap.com/community/articles/6a23bae628a87c7c9e4ad426/
+- 发布日期：约 2026-06-05（引用帖子 2026-06-04）
+- 引用帖子日期：2026-06-04
+- 摘录：
+> Ripple looks so strong that it will hit $17 in the bull run. $XRP will challenge Ethereum in the rankings.
+> Save this and wait.
+> Time will make everything clear.
+- 文章对其方法论的描述："The analysis centers on XRP's breakout from a long-standing consolidation pattern and its position above a falling trendline that acted as resistance for years… XRP broke above that long-standing resistance in late 2024… The chart also shows XRP trading within a larger ascending channel that has guided price action for several years."（核心是突破长期整固形态、站上多年下降阻力线；2024 年底突破；价格处于多年上升通道内。）
+
+## A8. BitcoinLinux — "Data Analyst to XRP Investors: Save This Tweet. Time Will Reveal the Truth"
+
+- 出处 URL：https://www.bitcoinlinux.com/data-analyst-to-xrp-investors-save-this-tweet-time-will-reveal-the-truth/
+- 发布日期：2026-06-01（页面标注 Jun 01, 2026）
+- 引用帖子日期：2026-05-29
+- 摘录：
+> Ripple is showing incredible strength.$XRP reaching $17 this bull run is not a crazy prediction.
+> It will challenge Ethereum for its position in the rankings.
+> Save this tweet.
+> Time will reveal the truth.
+
+## A9. CoinMarketCap（Guest Post by CoinCryptoNewz）— "XRP Price Could Reach $10 by Early 2027, Says Analyst"
+
+- 出处 URL：https://coinmarketcap.com/community/articles/6a259907bf0e2c436bfc4e20/
+- 发布日期：约 2026-06-07（引用帖子 2026-06-06）
+- 引用帖子日期：2026-06-06
+- 摘录：
+> The most realistic $XRP chart suggests that a move to $10 could happen between December 2026 and February 2027.
+> If XRP can establish and hold above $10, the sky's the limit.
+- 文章对其方法论的描述："CelalKucuker identifies $1.36 as the next major resistance level. This area aligns with the 38.2% Fibonacci retracement."（$1.36 为下一关键阻力，与 38.2% 斐波那契回撤位对齐。）"failure to hold above $1.10 may increase pressure… A move below $1.05 could expose the asset to a deeper correction toward the $0.93 support region."（跌破 $1.10 压力加大；跌破 $1.05 或深调至 $0.93。）
+
+## A10. BitcoinLinux — "XRP Pundit Says Pay Attention To This Pattern That Everyone Is Missing"
+
+- 出处 URL：https://www.bitcoinlinux.com/xrp-pundit-says-pay-attention-to-this-pattern-that-everyone-is-missing/
+- 发布日期：约 2026-06-07（站内标注"113 days ago"）
+- 引用帖子日期：2026-06-05（同一条杯柄帖的另一篇解读）
+- 文章对其方法论的描述："He pointed to a Cup & Handle pattern currently forming on the XRP chart, forecasting a potential explosive rally toward the 1.618 Fibonacci Extension level above $14… if price holds the $0.95 support and stages a strong rebound, the next upside target would likely be around $1.5. From there, the analyst projects a jump to $3.66, representing a roughly 282% surge from $0.95. Following that, XRP could then accelerate toward the analyst's final target around $14.1, a level that would mark a staggering 1,378% rally."（杯柄形态 → 1.618 扩展位 $14 上方；守住 $0.95 反弹后依次 $1.5 → $3.66（+282%）→ $14.1（+1,378%）。）"the accompanying chart shows that further weakness around this region could invalidate XRP's bullish structure and open the door to a deeper decline near $0.48."（跌破该区域则结构失效、或深跌至 $0.48——含隐含的失效条件。）
+
+## A11. HelenA Bitcoin Mining — "XRP Chart History Sparks Speculation Of $8.6 Price Target"
+
+- 出处 URL：未在搜索结果中返回完整可用 URL（结果条目标题可查）；引用内容见 posts.txt 帖子 1。
+- 发布日期：2026-03-14
+- 引用帖子日期：2026-03-13
+- 文章对其方法论的描述："That percentage isn't arbitrary. It mirrors what XRP did the last time it broke out of a similar structure. After clearing a comparable descending channel in November 2024, the token climbed 330% to reach $3.4 by January 2025. The current projection applies that same multiplier to the new setup."（$8.6 目标的 330% 并非随意，复刻 2024-11 通道突破后至 2025-01 的同比例涨幅。）
+
+## A12. Gate News — "Crypto Expert Predicts Bitcoin title40K and XRP $9.38 ATH by Year End"
+
+- 出处 URL：http://www.gate.ac/news/detail/crypto-expert-predicts-btc-ath-140000-and-xrp-ath-938-by-year-end-19994638
+- 发布日期：约 2026-04-03（站内标注"178 days ago"）
+- 引用帖子日期：2026-03-26
+- 摘录：
+> Ripple / Bitcoin
+> Now — Btc: 70K / XRP: 1.30$
+> End of year — $BTC 2x: 140K / XRP 7.22X: 9.38$
+> If you believe Bitcoin will reach 140K, then technically you will believe $XRP will reach $9.
+
+## A13. MEXC News — "Crypto Veteran Predicts the XRP Price If Bitcoin Hits $200K"
+
+- 出处 URL：https://www.mexc.com/news/1161981
+- 发布日期：约 2026-06-27（站内标注"99 days ago"）
+- 引用帖子日期：2026-06-20
+- 摘录："A financial analyst with over 20 years of market experience, Celal Kucuker, posted a bold tweet on June 20. He says XRP is positioned to outperform Bitcoin significantly in a bull market. Based on the XRP/BTC chart, he argues the XRP price could rise roughly 13x more than Bitcoin from current levels. If Bitcoin surpasses $200,000, XRP could deliver a 20x return."（20 年以上市场经验的金融分析师；基于 XRP/BTC 图表认为 XRP 相对 BTC 可跑赢约 13 倍；BTC 超 $200K 时 XRP 或带来 20 倍回报。）"A long‑term descending trendline stretching back to 2018; A horizontal support zone around 0.00014 BTC per XRP; A multi‑year compression or triangle structure; A projected breakout target near 0.00198 BTC."（图表要素：2018 年以来的长期下降趋势线、0.00014 BTC 水平支撑区、多年压缩三角、目标 0.00198 BTC。）
+
+## A14. CryptoPotato — "XRP Reaches Major Decision Point as Analysts Expect a Huge Move: Here Are the Targets"
+
+- 出处 URL：https://cryptopotato.com/xrp-reaches-major-decision-point-as-analysts-expect-a-huge-move-here-are-the-targets/
+- 发布日期：约 2026-07-06（站内标注"84 days ago"）
+- 引用帖子日期：2026-07-05
+- 摘录：
+> The XRP/BTC chart is approaching a major moment.
+> The red descending channel is close to breaking.
+> When that breakout happens, I expect Ripple to outperform Bitcoin by 10x from here.
+> By the time $BTC is printing new ATH, $XRP will likely already be trading above $12
+> Save this tweet. Come back to it later.
+- CaptainAltcoin（https://captainaltcoin.com/analyst-makes-a-shocking-xrp-price-prediction-against-bitcoin/，约 2026-07-06）对该帖的背景描述："analyst Celal Kucuker, who has covered XRP for years"（多年来一直覆盖 XRP 的分析师）；"Celal Kucuker is a financial analyst with over 20 years of market experience."（20 年以上市场经验的金融分析师。）
+
+## A15. COINTURK NEWS — "XRP targets $2.50, $3.50, $6, $13 as Celal Kucuker predicts 'exciting weeks ahead'"
+
+- 出处 URL：https://en.coin-turk.com/xrp-targets-2-50-3-50-6-13-as-celal-kucuker-predicts-exciting-weeks-ahead/
+- 发布日期：约 2026-08-31（站内标注"28 days ago"）
+- 引用帖子日期：2026-08-30
+- 摘录："Kucuker, who has developed a large following among traders for his chart-based analysis, has identified a large falling wedge pattern on XRP's price chart"（凭借图表分析在交易者中积累大量追随者；识别出 XRP 图表上的大型下降楔形）。："A flawless chart, a perfect correction, and a beautiful breakout from the downtrend—the next few weeks are going to be very exciting. The chart points to targets at $2.50, $3.50, $6, and $13."
+
+## A16. COINTURK NEWS — "Crypto analyst says XRP may reach $6 if Bitcoin hits $120,000, Ethereum $6,000"
+
+- 出处 URL：https://en.coin-turk.com/crypto-analyst-says-xrp-may-reach-6-if-bitcoin-hits-120000-ethereum-6000/
+- 发布日期：约 2026-07-27（站内标注"63 days ago"）
+- 引用帖子日期：未确认（帖子逐字原文未引用）
+- 摘录："Kucuker referenced a weekly chart that highlights XRP's long-running ascending structure, which has held since the lows of 2020. Currently, XRP is trading near $1 as it consolidates within a narrowing triangle just above a rising trendline… A breakout from this triangle is projected, with the initial upside target around $6.02… a second, much higher target at $12.57… In the event of a mega bull run, Kucuker projects $XRP could reach $11 to $15. He emphasized his confidence in the token's potential, describing XRP as the altcoin he trusts most."（周线图：自 2020 年低点以来的长期上升结构；在上升趋势线上方收窄三角内整固；三角突破首目标 $6.02，第二目标 $12.57；超级牛市下看 $11–$15；称 XRP 是他最信任的山寨币。）
+
+## A17. MoneyCheck / CoinCentral / Parameter / Blockonomi — SOL $59→$1,000 系列报道
+
+- 出处 URL（四家内容基本一致）：
+- https://moneycheck.com/solana-sol-price-analysis-will-100-support-hold-amid-fed-rate-increase-and-regulatory-setback/
+- https://coincentral.com/solana-sol-price-can-sol-hold-100-after-the-feds-first-rate-hike-in-three-years/
+- https://parameter.io/solana-sol-price-analysis-will-the-100-level-hold-amid-fed-rate-hike/
+- https://blockonomi.com/solana-sol-price-analysis-will-100-support-hold-following-feds-rate-increase/
+- 发布日期：约 2026-09-17（站内标注"11 days ago"）
+- 引用帖子日期：2026-09-16
+- 摘录：
+> $SOL chart looks exceptional.
+> Technically, $1,000 is possible if this weekly structure develops into a parabolic move.
+> I see $59 as a potential major bottom.
+> $59 → $1,000
+> This is only my forecast I can be wrong
+
+## A18. CoinPaper — "Solana Price Prediction: Can SOL Turn This Rebound Into a Rally?"
+
+- 出处 URL：https://coinpaper.com/35469/solana-price-prediction-can-sol-turn-this-rebound-into-a-rally
+- 发布日期：约 2026-09-09（站内标注"19 days ago"）
+- 引用帖子日期：未确认
+- 摘录："A separate long-term chart from Celal Kucuker presents a significantly more bullish scenario, built around Solana's recovery from a major support region near $70.72… The first major level shown is $148.16… put the larger resistance zone near $248.63 into focus. Kucuker said he expects SOL to reach $300 and make a new all-time high, with $1,000 possible if the formation fully develops. The chart itself illustrates an extended measured-move scenario toward roughly $989.60."（长期图表：$70.72 大支撑区筑底；先看 $148.16，再看 $248.63；预期 SOL 达 $300 创新高、形态走完可看 $1,000；量度目标约 $989.60。）
+
+## A19. Replaye — "When Will Solana Price Surge To $360? Analyst Shares Possible Timeline"
+
+- 出处 URL：https://replaye.com/when-will-solana-price-surge-to-360-analyst-shares-possible-timeline-11787.html
+- 发布日期：约 2026-04-21（站内标注爬取"160 days ago"）
+- 引用帖子日期：未确认
+- 摘录：当时 SOL 约 $88；"Based on the trajectory of black lines within the descending parallel channel, Kucuker expects Solana to rally again to $111.32 in the near term… Once this happens, SOL is projected to plunge even deeper toward $50.42, officially completing its bearish Double Bottom pattern… This line points directly to the $361.47 bullish target… suggests that Solana could skyrocket to this level by 2027. However, the chart shows somewhere around the third quarter of 2026… a staggering 616% gain from the projected $50.42 support level."（先涨至 $111.32，再深跌至 $50.42 完成双底，随后指向 $361.47，约 +616%。）
+
+## A20. Crypto-Economy — "Analyst Reveals the Key Stages Behind Ethereum's Potential Parabolic Expansion"
+
+- 出处 URL：https://crypto-economy.com/analyst-reveals-the-key-stages-behind-ethereums-potential-parabolic-expansion/
+- 发布日期：约 2026-05-11（站内标注"139 days ago"）
+- 引用帖子日期：2026-05-09
+- 摘录：
+> 1,760–1,800 → Mega support zone
+> 4,800 → First major breakout level
+> 6,000 → Psychological and technical transition zone
+> 13K → Cycle extension target
+> 24K → Full parabolic target
+> This chart is not fantasy.
+> On the contrary, it's a completely possible scenario.
+- 文章对其方法论的描述："Expert analyst Celal Kucuker presented a technical outlook projecting an initial correction before a significant rally… this pullback would allow for the formation of a solid base to propel the price toward $4,800."（先修正后大涨的抛物线路线图；回踩筑底再上冲。）
+
+## A21. CaptainAltcoin — "This Analyst's SUI Price Prediction Is (Almost) Unbelievable!"
+
+- 出处 URL：https://captainaltcoin.com/this-analysts-sui-price-prediction-is-almost-unbelievable/
+- 发布日期：2026-09-27（站内标注"1 day ago"）
+- 引用帖子日期：未确认
+- 摘录："Celal Kucuker, an analyst we regularly follow, has presented an extraordinarily bullish long-term scenario for SUI. His latest chart places a potential bull-market target at approximately $14.07, accompanied by the message that few investors currently believe SUI can get there. Kucuker has been bullish on SUI throughout the recent recovery. Earlier posts attributed to him identified $1.40 as an important upside level, followed by the much larger $5 region and eventually $8-$10 if the broader structure continues improving."（SUI 牛市目标 $14.07；此前帖子：$1.40 上行关口、$5 区域、$8–$10。）
+
+## A22. CaptainAltcoin — "Here's the Stellar (XLM) Price if XRP Reaches $6"
+
+- 出处 URL：https://captainaltcoin.com/heres-the-stellar-xlm-price-if-xrp-reaches-6/
+- 发布日期：2026-09-01（站内标注"27 days ago"）
+- 引用帖子日期：未确认
+- 摘录："Crypto analyst Celal Kucuker recently pointed to Stellar's long-term chart, describing XLM as having 'one of the best charts in the market.'… if XRP reaches $6, Kucuker believes XLM could break above $1.50. He goes considerably further under a stronger bull-market scenario, arguing that an eventual move toward $5 would not surprise him."（XLM"市场最佳图表之一"；XRP 到 $6 则 XLM 破 $1.50；强牛市下看 $5 亦不意外。）"Those targets would represent enormous gains from today's price… Kucuker's chart also shows why getting there would require XLM to overcome a technical structure that has been developing for years."（需突破多年技术结构。）
+
+## A23. Parameter.io — "XRP (XRP) Price Analysis: Bullish Flag Forms as ETF Inflows Continue"
+
+- 出处 URL：https://parameter.io/xrp-xrp-price-analysis-bullish-flag-forms-as-etf-inflows-continue-for-8-consecutive-weeks/
+- 发布日期：约 2026-09-10（站内标注"18 days ago"）
+- 引用帖子日期：2026-09-08
+- 摘录：
+> $XRP will be the star of this bull run.
+> Targets $2.30 → $3.30 → $4.90 → $7.50 → $11.60
+> Forget the noise.
+> Save this chart, print it out, and hang it on your wall.
+> This will probably play out.
+
+## A24. 99bitcoins — "XRP Price in Limbo as Holders Capitulate while Institutions Buy"
+
+- 出处 URL：https://99bitcoins.com/news/presales/xrp-price-holders-capitulate-institutions-accumulate/
+- 发布日期：约 2026-07-23（站内标注"67 days ago"）
+- 引用帖子日期：2026-07-23（与 A14 的 2026-07-05 帖子文本几乎相同，图片链接不同，疑似重复发布或重复引用）
+- 摘录：
+> The XRP/BTC chart is approaching a major moment.
+> The red descending channel is close to breaking.
+> When that breakout happens, I expect Ripple to outperform Bitcoin by 10x from here.
+> By the time $BTC is printing new ATH, $XRP will likely already be trading above $12
+> Save this…
+
+## A25. TheBitTimes — "XRP Price Target: Analyst Sets $2.20 Goal"
+
+- 出处 URL：https://thebittimes.com/xrp-price-target-analyst-sets-2-20-goal-tbt128266.html
+- 发布日期：约 2026-09-01（站内标注"27 days ago"）
+- 引用帖子日期：2026-08-29（与 A2 同一帖子的另一篇解读）
+- 摘录："Kucuker's XRP $2.20 target actually comes from a fairly simple chart. It shows XRP consolidating inside a narrowing structure after a sharp move higher… On the chart, the XRP price target for a breakout sits close to $2.1743, and a lower level near $1.3768 also stands out on the chart, which gives a rough sense of where things go if the setup doesn't hold."（图表：急涨后在收窄结构内整固；突破目标 $2.1743；下方 $1.3768 为结构失效时的参考位。）
+
+## A26. GitHub — pilot_trader 项目对 @CelalKucuker 的分类标注（二手、非媒体）
+
+- 出处 URL：https://github.com/fabibal/pilot_trader/commit/2115d86255a047515008f410de18a98ac506e961
+- 内容：该交易信号跟踪项目将 @CelalKucuker 归类为 "HUMAN TRADER / INFLUENCER"，描述为"post FREQUENT trade ideas/calls on stocks and/or crypto, and mix pure analysis/opinion with actionable calls. They often state entry prices, stop losses, and price targets. @CelalKucuker is CRYPTO-HEAVY: most of its calls are on cryptocurrencies (e.g. BTC, XRP, XLM, SUI, SOL, EIGEN)"（频繁发布交易观点/喊单，常给出入场价、止损和目标位；以加密货币为主：BTC、XRP、XLM、SUI、SOL、EIGEN）。**注：此为第三方项目的分类标注，非本人声明；"常给止损位"在本采集的公开引用中未能证实。**
