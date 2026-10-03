@@ -1,4 +1,4 @@
-# 大咖蒸馏 daka-distillation
+# 大咖蒸馏 bigname-distillation
 
 公开市场分析师方法论蒸馏合集。每个大咖独立一个目录，各有 `SKILL.md` 与一手证据链（`references/`）。
 
@@ -21,7 +21,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/aiedwardai/daka-distillation.git
+git clone https://github.com/aiedwardai/bigname-distillation.git
 # 把需要的子目录拷到你的 skills 目录即可单独使用
 ```
 
