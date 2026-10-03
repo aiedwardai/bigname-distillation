@@ -1,9 +1,9 @@
 ---
-name: "daka-distillation"
+name: "bigname-distillation"
 description: "大咖蒸馏：9 位公开市场分析师的方法论蒸馏合集。每人独立目录、独立 SKILL.md，按触发语或场景路由到对应子目录。覆盖 BTC 资金流、纯K线波段、趋势跟随合约、价格行为裸K、流动性扫荡、大周期形态、宏观配置、投资认知、AI 趋势研判。只做框架与纪律检查，不输出买卖点位、不构成投资建议。"
 ---
 
-# 大咖蒸馏（daka-distillation）
+# 大咖蒸馏（bigname-distillation）
 
 把公开市场分析师的方法论蒸馏成可复用的分析框架。每个大咖独立一个目录，各有自己的 `SKILL.md` 与证据链（`references/`）。用哪个框架，就读哪个目录。
 
